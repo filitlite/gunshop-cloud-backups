@@ -1,0 +1,50 @@
+{
+  "database": "GunShop Database Backup",
+  "timestamp": "2026-01-19T21:48:04.352617",
+  "original_file": "gunshop.db",
+  "size_bytes": 12288,
+  "location": "Текущая папка",
+  "backup_date": "2026-01-19 21:48:04",
+  "weapons_data": [
+    {
+      "id": 1,
+      "name": "AK-47",
+      "type": "Автомат",
+      "price": 1500,
+      "quantity": 10,
+      "caliber": "7.62x39mm"
+    },
+    {
+      "id": 2,
+      "name": "Glock 17",
+      "type": "Пистолет",
+      "price": 600,
+      "quantity": 25,
+      "caliber": "9x19mm"
+    },
+    {
+      "id": 3,
+      "name": "Remington 870",
+      "type": "Дробовик",
+      "price": 800,
+      "quantity": 15,
+      "caliber": "12 калибр"
+    },
+    {
+      "id": 4,
+      "name": "M4A1",
+      "type": "Автомат",
+      "price": 1800,
+      "quantity": 8,
+      "caliber": "5.56x45mm"
+    },
+    {
+      "id": 5,
+      "name": "Desert Eagle",
+      "type": "Пистолет",
+      "price": 1200,
+      "quantity": 5,
+      "caliber": ".50 AE"
+    }
+  ]
+}
