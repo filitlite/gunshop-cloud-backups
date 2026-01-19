@@ -1,0 +1,52 @@
+{
+  "application": "GunShop Pro",
+  "version": "1.0.0",
+  "timestamp": "2026-01-19T21:48:03.078137",
+  "system": {
+    "python_version": "3.14.2 (tags/v3.14.2:df79316, Dec  5 2025, 17:18:21) [MSC v.1944 64 bit (AMD64)]",
+    "platform": "win32",
+    "current_directory": "C:\\Users\\barsi\\OneDrive\\Рабочий стол\\ппп\\gunshop_project",
+    "files_in_directory": [
+      "app_logs_20260119_214633.json",
+      "architecture.txt",
+      "downloaded_README.md",
+      "gunshop.db",
+      "gunshop_backup_20260119_214635.json",
+      "gunshop_final_report.json",
+      "gun_shop.html",
+      "patterns_examples.py",
+      "profiling_report.txt",
+      "README_GUNSHOP.md",
+      "test_results.txt",
+      "weapons.bin",
+      "weapons.pkl"
+    ]
+  },
+  "operations": [
+    {
+      "time": "21:48:03",
+      "action": "startup",
+      "status": "success"
+    },
+    {
+      "time": "21:48:03",
+      "action": "github_connection",
+      "status": "success"
+    },
+    {
+      "time": "21:48:03",
+      "action": "backup_started",
+      "status": "in_progress"
+    },
+    {
+      "time": "21:48:03",
+      "action": "file_creation",
+      "status": "success"
+    }
+  ],
+  "statistics": {
+    "backup_time": "2026-01-19 21:48:03",
+    "files_count": 13,
+    "total_size_kb": 23.470703125
+  }
+}
