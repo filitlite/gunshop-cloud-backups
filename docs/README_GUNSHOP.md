@@ -4,31 +4,22 @@
 Облачное хранилище для резервного копирования данных магазина оружия "GunShop Pro".
 
 ## Создано
-2026-01-19 21:45:14
+2026-01-19 21:46:37
 
 ## Текущая директория
-C:\Users\barsi\gunshop_project
+C:\Users\barsi\OneDrive\Рабочий стол\ппп\gunshop_project
 
 ## Файлы в папке:
-- api_server.py
-- app_logs_20260119_214510.json
+- app_logs_20260119_214633.json
 - architecture.txt
-- cloud_info.json
-- config.json
-- current_inventory.json
 - downloaded_README.md
 - gun_shop.html
 - gunshop.db
-- gunshop_backup_20260119_214512.json
-- gunshop_web.html
+- gunshop_backup_20260119_214635.json
 - patterns_examples.py
 - profiling_report.txt
-- sales_report_january.json
-- shop_config.json
-- test_report.json
 - test_results.txt
 - weapons.bin
-- weapons.dat
 - weapons.pkl
 
 ## Структура репозитория
