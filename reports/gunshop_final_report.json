@@ -1,21 +1,24 @@
 {
   "project": "GunShop Pro - Облачное хранилище",
   "student": "Студент",
-  "completion_date": "2026-01-19T21:46:38.894221",
+  "completion_date": "2026-01-19T21:48:08.350366",
   "github_repository": "https://github.com/filitlite/gunshop-cloud-backups",
   "current_directory": "C:\\Users\\barsi\\OneDrive\\Рабочий стол\\ппп\\gunshop_project",
   "created_files": [
-    "app_logs_20260119_214633.json",
-    "gunshop_backup_20260119_214635.json",
+    "app_logs_20260119_214803.json",
+    "gunshop_backup_20260119_214804.json",
     "downloaded_README.md",
     "README_GUNSHOP.md"
   ],
   "files_in_current_folder": [
     "app_logs_20260119_214633.json",
+    "app_logs_20260119_214803.json",
     "architecture.txt",
     "downloaded_README.md",
     "gunshop.db",
     "gunshop_backup_20260119_214635.json",
+    "gunshop_backup_20260119_214804.json",
+    "gunshop_final_report.json",
     "gun_shop.html",
     "patterns_examples.py",
     "profiling_report.txt",
